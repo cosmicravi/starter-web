@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+This is only for humans alone. 
 # TEAM
 
     <name> -- <role> -- <twitter>
