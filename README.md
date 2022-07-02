@@ -8,6 +8,10 @@ This is an example to show different parts of the git repository and various com
 
 ## Purpose
 
+Purpose is only for git training. 
+
 ## Deployment
+
+Take your pick on deployment. File Server or local system. 
 
 ## How to Contribute
